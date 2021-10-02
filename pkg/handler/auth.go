@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/polyanskdev/todo-app"
+	"github.com/polyanskdev/todo-app/pkg/todo"
 )
 
 // @Summary SignUp

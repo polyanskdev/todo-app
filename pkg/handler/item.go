@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"github.com/polyanskdev/todo-app"
+	"github.com/polyanskdev/todo-app/pkg/todo"
 )
 
 // @Summary Create

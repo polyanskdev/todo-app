@@ -8,10 +8,10 @@ import (
 
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
-	"github.com/polyanskdev/todo-app"
 	"github.com/polyanskdev/todo-app/pkg/handler"
 	"github.com/polyanskdev/todo-app/pkg/repository"
 	"github.com/polyanskdev/todo-app/pkg/service"
+	"github.com/polyanskdev/todo-app/pkg/todo"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
 )

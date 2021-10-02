@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/dgrijalva/jwt-go"
-	"github.com/polyanskdev/todo-app"
 	"github.com/polyanskdev/todo-app/pkg/repository"
+	"github.com/polyanskdev/todo-app/pkg/todo"
 )
 
 const (
